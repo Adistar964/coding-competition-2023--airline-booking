@@ -1,0 +1,29 @@
+,name,airways,ticket_number,time,date,from,to
+,name,airlines,ticket_number,time,date,from,to
+,name,airlines,ticket_number,time,date,from,to
+,name,airlines,ticket_number,time,date,from,to
+,name,airlines,ticket_number,time,date,from,to
+,name,airways,ticket_number,time,date,from,to
+,name,airlines,ticket_number,time,date,from,to
+,name,airlines,ticket_number,time,date,from,to
+,name,airlines,ticket_number,time,date,from,to
+,name,airlines,ticket_number,time,date,from,to
+,name,airlines,ticket_number,time,date,from,to
+,name,airlines,ticket_number,time,date,from,to
+,name,airlines,ticket_number,time,date,from,to
+,name,airlines,ticket_number,time,date,from,to
+,name,airlines,ticket_number,time,date,from,to
+"(nan, 'Unnamed: 0')",name,airways,ticket_number,time,date,from,to
+"(0.0, nan)",name,airways,ticket_number,time,date,from,to
+"(1.0, nan)",name,airways,ticket_number,time,date,from,to
+"(2.0, nan)",name,airways,ticket_number,time,date,from,to
+"(3.0, nan)",name,airways,ticket_number,time,date,from,to
+"(4.0, nan)",name,airways,ticket_number,time,date,from,to
+"(5.0, nan)",name,airways,ticket_number,time,date,from,to
+"(6.0, nan)",name,airways,ticket_number,time,date,from,to
+"(7.0, nan)",name,airways,ticket_number,time,date,from,to
+"(8.0, nan)",name,airways,ticket_number,time,date,from,to
+"(9.0, nan)",name,airways,ticket_number,time,date,from,to
+"(10.0, nan)",name,airways,ticket_number,time,date,from,to
+"(11.0, nan)",name,airways,ticket_number,time,date,from,to
+13,Ali,Qatar_Airways,E845016,2_2 am,1_in_Jan,12,1212
